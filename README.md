@@ -5,7 +5,7 @@
 ## who i am
 
 - electrical engineering student @ university of british columbia
-- seeking **summer 2026** internship opportunities
+- seeking **fall 2026** internship opportunities
 - current projects:
   - strain gauge daq @ formula sae ubc
 
