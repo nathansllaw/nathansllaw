@@ -3,7 +3,7 @@
 ### currently
 - electrical engineering @ [university of british columbia](https://ubc.ca/)
 - electrical engineering intern @ [hatch](https://www.hatch.com/) (```summer 2026```)
-- electrical subteam member @ [formula sae ubc](https://www.formulaelectric.ubc.ca/)
+- electrical subteam member @ [formula sae ubc](https://www.formulaubc.com/)
 ### technical skills
 - programming languages: `c` `embedded c` `python` `matlab` `systemverilog` `assembly (risc-v)`
 - embedded & firmware: `stm32` `finite state machines` `pid control` `pwm` `adc` `can bus` `sensor filtering`
