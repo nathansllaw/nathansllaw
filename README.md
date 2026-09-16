@@ -1,4 +1,4 @@
-# i'm nathan
+# hi, my name's nathan
  
 ### currently
 - electrical engineering @ [university of british columbia](https://ubc.ca/)
